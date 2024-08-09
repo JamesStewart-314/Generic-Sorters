@@ -28,6 +28,7 @@ Below is a table to illustrate the different functions currently available:
 | Shell Sort              | $Ω(n*log(n))$      | $Θ(n$<sup>1.2</sup>$)$         | $O(n$<sup>1.5</sup>$)$       | $O(1)$             | No      |
 | Quick Sort              | $Ω(n*log(n))$      | $Θ(n*log(n))$        | $O(n²)$            | $O(log(n))$        | No      |
 
+<br>
 
 ## Algorithmic Complexity in Big O Notation for the best sorting functions EVER:
 | Function                |                  | Time Complexity    |                  | Space Complexity | Stable?  |
